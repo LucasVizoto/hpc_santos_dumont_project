@@ -13,7 +13,7 @@ Este projeto implementa um pipeline de processamento de imagens médicas no form
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/LucasVizoto/hpc_santos_dumont_project.git](https://github.com/LucasVizoto/hpc_santos_dumont_project.git)
+    git clone https://github.com/LucasVizoto/hpc_santos_dumont_project.git
     cd hpc_santos_dumont_project
     ```
 
